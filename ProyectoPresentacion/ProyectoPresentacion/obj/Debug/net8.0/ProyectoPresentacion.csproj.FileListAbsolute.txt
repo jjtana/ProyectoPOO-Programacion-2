@@ -1,0 +1,14 @@
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\bin\Debug\net8.0\ProyectoPresentacion.exe
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\bin\Debug\net8.0\ProyectoPresentacion.deps.json
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\bin\Debug\net8.0\ProyectoPresentacion.runtimeconfig.json
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\bin\Debug\net8.0\ProyectoPresentacion.dll
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\bin\Debug\net8.0\ProyectoPresentacion.pdb
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\ProyectoPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\ProyectoPresentacion.AssemblyInfoInputs.cache
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\ProyectoPresentacion.AssemblyInfo.cs
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\ProyectoPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\ProyectoPresentacion.dll
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\refint\ProyectoPresentacion.dll
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\ProyectoPresentacion.pdb
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\ProyectoPresentacion.genruntimeconfig.cache
+C:\Users\jjtana\source\repos\ProyectoPresentacion\ProyectoPresentacion\obj\Debug\net8.0\ref\ProyectoPresentacion.dll
